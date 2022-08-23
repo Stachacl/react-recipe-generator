@@ -1,0 +1,37 @@
+*{ /* star means that this style is for every element in the DOM*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-family: "Alex Brush";
+  font-size: 5rem;
+}
+
+h3 {
+  font-size: 2rem;
+  font-style: italic;
+  color: rgb(69, 69, 69);
+  margin: 0.5rem;
+
+}
+
+a {
+  color: rgb(69, 69, 69);
+}
