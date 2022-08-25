@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-recipe-generator/static/css/main.36c36060.css",
+    "main.js": "/react-recipe-generator/static/js/main.e818d7a3.js",
+    "index.html": "/react-recipe-generator/index.html",
+    "main.36c36060.css.map": "/react-recipe-generator/static/css/main.36c36060.css.map",
+    "main.e818d7a3.js.map": "/react-recipe-generator/static/js/main.e818d7a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c36060.css",
+    "static/js/main.e818d7a3.js"
+  ]
+}
