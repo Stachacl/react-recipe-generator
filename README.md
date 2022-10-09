@@ -3,10 +3,10 @@
 App made in React, fetching recipes from API by custom parameters.
 
 App screenshot: 
-#
+
 
 <img src="https://ik.imagekit.io/stcl/github/Screen_Shot_2022-10-09_at_7.35.44_pm_-Oe_GLaAj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665304648938">
-#
+
 
 ## Contents
 * [General Info](#general-info)
@@ -38,9 +38,8 @@ Technologies I used for this project:
 
 App screenshot: 
 
-#
+
 <img src="https://ik.imagekit.io/stcl/github/Screen_Shot_2022-10-09_at_7.36.41_pm_czFyOJoYr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665304645396">
-#
 
 
 ### API 
